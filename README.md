@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 PhD Student | Python • Machine Learning • Deep Learning
 
-- 👁️ In search of the unseen rhythms
+- :mag_right: In search of the unseen rhythms
 - 🛠️ Building: [rppg-gui](https://github.com/B-Acharya/rppg-gui) & [rust-ppg](https://github.com/B-Acharya/rust-ppg)
